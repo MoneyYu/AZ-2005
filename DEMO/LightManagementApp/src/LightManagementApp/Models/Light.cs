@@ -1,5 +1,3 @@
-using System;
-
 namespace LightManagementApp.Models
 {
     /// <summary>

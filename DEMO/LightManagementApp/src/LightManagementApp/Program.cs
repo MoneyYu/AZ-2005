@@ -1,9 +1,6 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.SemanticKernel;
+﻿using Microsoft.SemanticKernel;
 using LightManagementApp.Kernel;
 using LightManagementApp.Kernel.Plugins;
-using LightManagementApp.Models;
 using LightManagementApp.Services;
 using LightManagementApp.Services.InMemory;
 using LightManagementApp.UI;
