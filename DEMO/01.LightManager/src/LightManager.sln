@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightManagementApp", "LightManagementApp\LightManagementApp.csproj", "{BBBDDC8E-9D4A-A116-3660-C6D21A17D704}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightManager", "LightManager\LightManager.csproj", "{DF93C0CB-FEE5-8C75-9535-483ED1C74403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BBBDDC8E-9D4A-A116-3660-C6D21A17D704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBBDDC8E-9D4A-A116-3660-C6D21A17D704}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBBDDC8E-9D4A-A116-3660-C6D21A17D704}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBBDDC8E-9D4A-A116-3660-C6D21A17D704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF93C0CB-FEE5-8C75-9535-483ED1C74403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF93C0CB-FEE5-8C75-9535-483ED1C74403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF93C0CB-FEE5-8C75-9535-483ED1C74403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF93C0CB-FEE5-8C75-9535-483ED1C74403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8CB47C6F-7167-41AD-8FFF-9F1CA4246434}
+		SolutionGuid = {35B749D5-AED8-4283-8624-E40C5FAAECC6}
 	EndGlobalSection
 EndGlobal
