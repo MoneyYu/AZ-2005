@@ -29,7 +29,7 @@ builder.AddAzureOpenAIChatCompletion(
 
 var kernel = builder.Build();
 
-var plugin = await kernel.ImportPluginFromOpenApiAsync("Weather", new Uri("https://api.weather.gov/openapi.json/"));
+var plugin = await kernel.ImportPluginFromOpenApiAsync("Weather", new Uri("https://api.weather.gov/openapi.json"));
 
 var chatCompletionService = kernel.GetRequiredService<IChatCompletionService>();
 var chatHistory = new ChatHistory();
