@@ -6,8 +6,8 @@ GA: G-DXYJBX6BH8
 
 # AZ-2005 Reference
 :::success
-Date: 20250320
-Course ID: 75979
+Date: 20250903
+Course ID: 86388
 :::
 
 :::info
@@ -27,16 +27,24 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 ## Lab
 ### Skillable lab system
 [ESI Labs](https://aka.ms/esilab)
-> Training key: 9C842E759CB244B4
+> Training key: F0316D58E0D14665
 > > Only need to redeem once
 > > Valid for 6 months
 
 ### Instruction
+[AZ-2005 Labs EN](https://github.com/MicrosoftLearning/mslearn-ai-semantic-kernel/tree/main)
+
+[AZ-2005 Lab files](https://github.com/MicrosoftLearning/mslearn-ai-semantic-kernel/archive/refs/heads/main.zip)
+
+<!--
 [AZ-2005 Labs EN](https://github.com/MicrosoftLearning/AZ-2005-Develop-AI-agents-OpenAI-Semantic-Kernel-SDK)
 [AZ-2005 Labs CN](https://github.com/MicrosoftLearning/AZ-2005-Develop-AI-agents-OpenAI-Semantic-Kernel-SDK.zh-cn)
-[AZ-2005 Lab files](https://github.com/MicrosoftLearning/AZ-2005-Develop-AI-agents-OpenAI-Semantic-Kernel-SDK/archive/refs/heads/master.zip)
+-->
+
 
 ## Course Info
+![About](https://mdcontent.yu.money/contents/5ce9a4c5d24eb3c4fa6f08f00.png)
+
 ![Course](https://mdcontent.yu.money/contents/491e5d1824f997519c90bf301.png)
 
 ## Links
@@ -64,6 +72,12 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 #### Prompts
 [Semantic Kernel prompt template syntax](https://learn.microsoft.com/en-us/semantic-kernel/concepts/prompts/prompt-template-syntax)
 
+[Using Handlebars prompt template syntax with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/prompts/handlebars-prompt-templates?pivots=programming-language-csharp)
+
+[Using Liquid prompt template syntax with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/prompts/liquid-prompt-templates)
+
+[Protecting against Prompt Injection Attacks in Chat Prompts](https://learn.microsoft.com/en-us/semantic-kernel/concepts/prompts/prompt-injection-attacks?pivots=programming-language-csharp)
+
 #### Plugins
 [What is a Plugin?](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/?pivots=programming-language-csharp)
 
@@ -79,6 +93,8 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 [Semantic Kernel Agent Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/?pivots=programming-language-csharp)
 
 [Overview of the Process Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/process/process-framework)
+
+[Agent framework vs Process framework](https://felo.ai/search/CEk22wAmgBJFnHaG5k2tS4?invite=WPpdJYremnmOn)
 
 ## Contact
 - Money Yu
