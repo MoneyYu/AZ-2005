@@ -52,6 +52,8 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 
 [Supported Semantic Kernel languages](https://learn.microsoft.com/en-us/semantic-kernel/get-started/supported-languages?pivots=programming-language-csharp)
 
+[AI Integrations for Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/integrations)
+
 ### Concept
 [Understanding the kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/kernel?pivots=programming-language-csharp)
 
@@ -60,6 +62,10 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 [Adding AI services to Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/)
 
 [Function calling with chat completion](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/?pivots=programming-language-csharp)
+
+[Chat history](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/chat-history?pivots=programming-language-csharp)
+
+[Multi-modal chat completion](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/multi-modal-chat-completion?pivots=programming-language-csharp)
 
 #### Enterprise Component
 [What are Filters?](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/filters?pivots=programming-language-csharp)
@@ -85,12 +91,31 @@ Course Survey: [https://aka.ms/az2005survey](https://aka.ms/az2005survey)
 
 [Add plugins from OpenAPI specifications](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/adding-openapi-plugins?pivots=programming-language-csharp)
 
+[Add plugins from a MCP Server](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/adding-mcp-plugins?pivots=programming-language-csharp)
+
 [Using plugins for Retrieval Augmented Generation (RAG)](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/using-data-retrieval-functions-for-rag)
 
 [Task automation with agents](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/using-task-automation-functions?pivots=programming-language-csharp)
 
+[Function calling with chat completion](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/?pivots=programming-language-csharp)
+
+[Function Choice Behaviors](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/function-choice-behaviors?pivots=programming-language-csharp)
+
+[Function Invocation Modes](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/function-invocation?pivots=programming-language-csharp)
+
+##### Prompt Engineering
+[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering?tabs=chat)
+
+[System message design](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/adding-mcp-plugins?pivots=programming-language-csharp)
+
 ### Framewroks
 [Semantic Kernel Agent Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/?pivots=programming-language-csharp)
+
+[Semantic Kernel Agent Orchestration](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/agent-orchestration/?pivots=programming-language-csharp)
+
+[Semantic Kernel: Multi-agent Orchestration](https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-multi-agent-orchestration/)
+
+[Semantic Kernel Agents are now Generally Available](https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-agents-are-now-generally-available/)
 
 [Overview of the Process Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/process/process-framework)
 
